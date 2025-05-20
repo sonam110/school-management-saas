@@ -8,7 +8,7 @@
 # /public/user
 # /public/certificates
 # /storage/*.key
-# /vendor
+ /vendor
 kpmg-dpr-api.zip
 app.zip
 vendor.zip
